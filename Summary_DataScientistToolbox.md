@@ -24,7 +24,7 @@ R help functions:
 * `args("functionName")` Get arguments (input/output) of _functionName_
 * `functionName` See code of _functionName_
 
-An R reference card can be found at "http://cran.r-project.org/doc/contrib/Short-refcard.pdf"
+An R reference card can be found at http://cran.r-project.org/doc/contrib/Short-refcard.pdf
 
 ### Asking an R question
 When asking an R question, think about:
@@ -137,7 +137,7 @@ Git commands (always precede with `git `):
 * `status`     Show the working tree status
 * `tag`        Create, list, delete or verify a tag object signed with GPG
 
-More documentation can be found on `http://git-scm.com/doc`
+More documentation can be found on http://git-scm.com/doc
 
 ## Github Syntax
 Github is a web-based hosting service for software development projects that
@@ -146,7 +146,7 @@ use the Git revision control system.
 ### Start a repo
 Start a repo by going to your profile page and click on the `+` sign 
 (upper righthand corner of the page) and choose _Create a new repo_.
-Or go to `https://github.com/new` (you need to be logged in for this)
+Or go to https://github.com/new (you need to be logged in for this)
 
 ### Create a local copy
 Open Git Bash or terminal.
@@ -168,7 +168,7 @@ do `git clone https://github.com/yourUserNameHere/repoNameHere.git`
 * Merge the remote to the local version (there might be conflicts)
 * Push your local changes (which you have committed)
 
-More information can be found on `https://help.github.com/`
+More information can be found on https://help.github.com/
 
 ## Markdown Syntax
 This is a summary of basic markdown syntax
@@ -182,9 +182,9 @@ This is a summary of basic markdown syntax
 
 Help on markdown can be found at
 
-* Online introduction:  `http://daringfireball.net/projects/markdown`
+* Online introduction: http://daringfireball.net/projects/markdown
 * Rstudio, quick guide: Click the MD button
-* R markdown: `http://www.rstudio.com/ide/docs/authoring/using_markdown`
+* R markdown: http://www.rstudio.com/ide/docs/authoring/using_markdown
 (not needed until the _Reproducible Research_ course
 
 ## Installing R packages
