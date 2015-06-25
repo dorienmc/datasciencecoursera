@@ -198,5 +198,6 @@ _ Can also be done in RStudio from `Tools > Install Packages`_
 * `biocLite()` install basic set of Rpackages from Bioconductor 
 _first add `source("http://bioconductor.org/biocLite.R")`_
 * `biocLite(c("<packagename>","<packagename>"))` install the given packages from bioconductor
-* `library(<packagename>)` load given package into R **!Don't use ""!* **Load depndencies first**
+* `library(<packagename>)` load given package into R, also shows copyright **!Don't use ""!* **Load depndencies first**
 * `search()` show functions of loaded package
+* `packageDescription('<packagename')` give description of the given package
